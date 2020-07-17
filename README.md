@@ -4,11 +4,11 @@ UAS
 
 Terdapat beberapa folder yang berisikan fungsi php<br>
 
-<br>1. folder index<br>
-   Didalam folder index terdapat file idx_halaman.php yang berfungsi untuk menanpilkan seperti halaman awal, halaman input data pembayaran zakat,<br>
+   1.folder index<br>
+   Didalam folder index terdapat file idx_halaman.php yang berfungsi untuk menanpilkan seperti halaman awal, halaman input data pembayaran zakat,
    menampilkan data pembayar zakat, dan edit pembayar zakat.<br> 
 
-<br>2. folder main<br>
+   2.folder main<br>
    Didalam folder main terdapat beberapa fungsi php seperti :<br>
  
      > index.php untuk menampilkan halaman login awal.<br>
