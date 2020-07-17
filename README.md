@@ -11,14 +11,14 @@ Terdapat beberapa folder yang berisikan fungsi php<br>
 <br>2. folder main<br>
    Didalam folder main terdapat beberapa fungsi php seperti :<br>
  
-   <br>> index.php untuk menampilkan halaman login awal.<br>
-   > main_cetak_zakat.php merupakan halaman cetak data pembayaran zakat.<br>
-   > main_data_bayar_zakat.php merupakan halaman tampilan data pembayar zakat.<br>
-   > main_edit_zakat.php merupakan halaman untuk mengedit pembayar zakat.<br>
-   > main_foother.php merupakan tampilan untuk foother dari halaman.<br>
-   > main_header.php merupakan tampilan untuk header dari halaman.<br>
-   > main_input_data_bayar_zakat.php merupakan halaman untuk menginput data pembayar zakat.<br>
-   > main_rumah.php merupakan tampilan untuk halaman awal.<br> 
+     > index.php untuk menampilkan halaman login awal.<br>
+     > main_cetak_zakat.php merupakan halaman cetak data pembayaran zakat.<br>
+     > main_data_bayar_zakat.php merupakan halaman tampilan data pembayar zakat.<br>
+     > main_edit_zakat.php merupakan halaman untuk mengedit pembayar zakat.<br>
+     > main_foother.php merupakan tampilan untuk foother dari halaman.<br>
+     > main_header.php merupakan tampilan untuk header dari halaman.<br>
+     > main_input_data_bayar_zakat.php merupakan halaman untuk menginput data pembayar zakat.<br>
+     > main_rumah.php merupakan tampilan untuk halaman awal.<br> 
 
 <br>3. folder proses<br>
    Didalam folder proses terdapat beberapa fungsi php seperti :<br>     
